@@ -1,0 +1,24 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "This is weather  to show weather of ciy input node cmd",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Sanjarbek",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chalk": "^5.3.0",
+    "dedent": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
